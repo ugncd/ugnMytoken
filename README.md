@@ -1,5 +1,7 @@
 #MyToken
 
+This is my assessment for Getting Started with Solidity.
+
 👋 Hi, I’m @ugncd
 👀 I’m interested in different stuff.
 🌱 I’m currently studying at NTC.
